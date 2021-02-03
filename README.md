@@ -1,4 +1,4 @@
-# he2
+# lidmcp frontend_web_v4
 
 ## Project setup
 ```
@@ -20,5 +20,8 @@ yarn build
 yarn test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Program directory structure
+![jiegou](/01.png)
+
+### Project structure
+![jiegou](/02.png)
